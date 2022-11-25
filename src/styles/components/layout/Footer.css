@@ -1,0 +1,15 @@
+footer {
+    background: rgb(66, 166, 233);
+    clear: both;
+    color:  white;
+    padding: 3em 0;
+    margin-top: 2em;
+}
+
+footer p {
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    margin: 0;
+}
+
